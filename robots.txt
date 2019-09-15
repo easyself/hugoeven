@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://easyself.github.io/even/sitemap.xml
+Sitemap: https://easyself.github.io/hugoeven/sitemap.xml
